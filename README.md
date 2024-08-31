@@ -13,7 +13,7 @@
 <br>
 <h3 align="left">AWS Badges:</h3>
 
-<img align="left" alt="coding" width="100" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Famazon-web-services%2Fbadge%2Faws-cloud-quest-cloud-practitioner&psig=AOvVaw3gethwRV5SAkptWN4hyXtz&ust=1725171971813000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjxwMXMnogDFQAAAAAdAAAAABAE]">
+<img align="left" alt="coding" width="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Famazon-web-services%2Fbadge%2Faws-cloud-quest-cloud-practitioner&psig=AOvVaw3gethwRV5SAkptWN4hyXtz&ust=1725171971813000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjxwMXMnogDFQAAAAAdAAAAABAE">
 <img align="left" alt="coding" width="100" src="https://images.credly.com/size/680x680/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png">
 <p align="left">
 </p>
