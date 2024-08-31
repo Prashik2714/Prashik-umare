@@ -13,8 +13,9 @@
 <br>
 <h3 align="left">AWS Badges:</h3>
 
-<img align="left" alt="coding" width="100" src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png">
-<img align="left" alt="coding" width="100" src="https://images.credly.com/size/680x680/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png">
+<img align="left" alt="coding" width="150" src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png">
+<img align="left" alt="coding" width="150" src="https://images.credly.com/size/680x680/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png">
+<br>
 <p align="left">
 </p>
 <br>
